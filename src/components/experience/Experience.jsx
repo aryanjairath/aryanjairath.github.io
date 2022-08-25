@@ -1,6 +1,11 @@
 import React from 'react'
 import './experience.css'
 import {BsFillBookmarkCheckFill} from 'react-icons/bs';
+import {SiJava} from 'react-icons/si';
+import {FaReact} from 'react-icons/fa';
+import {ImHtmlFive2} from 'react-icons/im';
+import {DiCss3} from
+
 import Paint from '../../assets/PaintProgram.png'
 const Experience = () => {
   return (
